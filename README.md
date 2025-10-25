@@ -1,6 +1,6 @@
 # Privacy Policy for Telegram to Facebook Video Bot
 
-**Last Updated:** [Date]
+**Last Updated:** 10/2025
 
 ## 1. Information We Collect
 
